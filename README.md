@@ -1,12 +1,15 @@
 # awesome
-好玩实用的收集
+好玩的好用的好看的
 
-好看的网页HTML5模板:
-http://html5up.net
+## 网站
+| 网站 | 描述 | 网址 |
+| :--: | :-- | :-- |
+| HTML5 UP | 好看的网页HTML5模板 | http://html5up.net |
 
-Mac软件:
-
-Alfred: https://www.alfredapp.com/
-CheetSheet: https://www.mediaatelier.com/CheatSheet/
-1Password: https://1password.com 
-Jietu: https://jietu.qq.com/
+## Mac软件
+| 软件 | 描述 | 网址 |
+| :--: | :-- | :-- |
+| Alfred | 装机必备 | https://www.alfredapp.com/ |
+| CheetSheet | 查看当前软件所有快捷键 | https://www.mediaatelier.com/CheatSheet/ |
+| 1Password | 跨平台管理密码 | https://1password.com |
+| Jietu | 截屏软件,安装QQ时自带 | https://jietu.qq.com/ |
