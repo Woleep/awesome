@@ -13,3 +13,4 @@
 | CheetSheet | 查看当前软件所有快捷键 | https://www.mediaatelier.com/CheatSheet/ |
 | 1Password | 跨平台管理密码 | https://1password.com |
 | Jietu | 截屏软件,安装QQ时自带 | https://jietu.qq.com/ |
+| Grammarly | 英语语法检查 | https://www.grammarly.com |
