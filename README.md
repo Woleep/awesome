@@ -5,6 +5,7 @@
 | 网站 | 描述 | 网址 |
 | :--: | :-- | :-- |
 | HTML5 UP | 好看的网页HTML5模板 | http://html5up.net |
+| ShotKit | The camera gear of the world's best photographers | https://shotkit.com |
 
 ## Mac软件
 | 软件 | 描述 | 网址 |
